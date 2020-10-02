@@ -1,6 +1,6 @@
 {
   "name": "global-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper around keys.exe to get global keypress data.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -39,6 +39,7 @@
     "url": "https://github.com/QuantumCoded/global-keys"
   },
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "/bin/**/*"
   ]
 }
